@@ -1,0 +1,186 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+	<HEAD>
+		<TITLE> 201804077최환규 </TITLE>
+	<meta name="author" content="최환규">
+	<meta charset = 'utf-8'>
+	<meta name="description" content="간단하게 스쳐보는 글귀">
+	</HEAD>
+	
+<BODY>
+	<hr>
+	<ul>
+		<li><a href="#chap1">소프트웨어학과 관련내용으로 이동</a>
+		<li><a href="#chap2">서일대 관련 링크 모음으로 이동</a>
+		<li><a href="#chap3">작성자 소개페이지로 이동</a>
+		<li><a href="믿음.jpg"download>믿음 글귀 밑 이미지 다운로드</a>
+
+	</ul>
+
+
+	<h1 id="맨 위" title="h1태그로 작성하였습니다.">
+	믿음</h1>
+	<hr>
+		<div style="background-color:pink; padding:30px;">
+		<strong>
+		우리에게<br>
+		<span style="color:red">&#39;믿음&#39;</span>의 대상으로 다가온 것에<br>
+		<span style="color:red">&#39;믿음&#39;</span>을 가질 수 없다면, 자신 안에서 믿을 무언가를 찾아야 한다. 왜냐하면 무엇인가에 대한<br>
+		<span style="color:red">&#39;믿음&#39;</span>이 없는 삶은 살기에 너무 좁은 곳이기 때문이다.
+		</div>
+		</strong>
+	<hr>
+			<p>
+		<pre>
+		<b>
+	<b><i><h3>			짧고</i></b>
+	<b><i><h3>						좋은</i></b>
+	<b><i><h3>								글귀</i></b>
+		</b>
+		</pre>
+			</p>
+		<img Src="믿음.jpg" width="1000" height="600" alt="믿음">
+
+		<pre>
+		<ins>									<mark> &copy; All rights Reserved by George E. Woodberry</ins></mark>
+		</pre>
+	<br>
+
+	
+
+	<hr>
+		<h3 id="chap1">소프트 웨어 공학과 강의 목록</h3>
+	<hr>
+	<dl>
+		<dt><strong>VB.NET프로그래밍</strong>
+		<dd>김지현 교수님의 명강의
+		<dt><strong>인터넷활용(HTML,JavaScript)</strong>
+		<dd>조은숙 교수님의 명강의
+		<dt><strong>C언어프로그래밍기초</strong>
+		<dd>오성균 교수님의 명강의
+		<dt><strong>S/W문제해결 및 의사소통능력</strong>
+		<dd>김  룡 교수님의 명강의
+		<dt><strong>컴퓨터 구조</strong>
+		<dd>이영교 교수님의 명강의
+		<dt><strong>UI디자인</strong>
+		<dd>김영춘 교수님의 명강의
+		<dt><strong>컴퓨터 개론</strong>
+		<dd>왕종수 교수님의 명강의
+	</dl>
+	<hr>
+		<h3>강의평가</h3>
+	<hr>
+	
+	<table border="2"> 
+		<caption></caption>
+		<thead>
+			<tr><th>성함</th><th>강의내용</th><th>친절함</th></tr>
+		</thead>
+
+		<tbody>
+			<tr><td>김지현교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>조은숙교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>오성균교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>김  룡교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>이영교교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>김영춘교수님</td><td>100</td><td>100</td></tr>
+			<tr><td>왕종수교수님</td><td>100</td><td>100</td></tr>
+		</tbody>
+
+		<tfoot>
+			<tr><th>합</th><th>700</th><th>700</th></tr>
+		</tfoot>
+	</table>
+
+	<hr>
+		<h3>과제를 하는 순서</h3>
+	<hr>
+		<ol type="1" >
+			<li>교수님께 과제 내용에 대해서 듣는다.</li>
+			<li>자료들을 조사한다.</li>
+			<li>자료를 기반으로 문서를 작성한다.</li>
+			<li>제출한다.</li>
+		</ol>
+		<h3>내가 좋아하는 과제</h3>
+	<hr>
+	<ul>
+		<li>실습위주
+		<li>다들 의욕있고 참여도높은 조별과제
+	</ul>
+		
+	<hr>
+		<h3 id="chap2">서일대 링크</h3>
+	<hr>
+		Seoil
+	<ul>
+		<li><a href="http://ctl.seoil.ac.kr">서일대 교수학습지원센터</a></li>
+		<li><a href="http://ncs.seoil.ac.kr">서일대 직업능력평가</a></li>
+	</ul>
+	
+	<hr>
+
+
+	<hr>
+		<h3 id="chap3"> 최 환 규 </h3>
+	<hr>
+		<iframe src="left.html" name="left" width="350" height="350">
+			</iframe>
+		<iframe src="right.html" name="right" width="400" height="350">
+			</iframe>
+	
+	<hr>
+		<a href="#맨 위">맨 위로 이동하기</a>
+
+	<hr>
+
+	
+		<pre>
+		<ins>									 	<mark> &copy; All rights Reserved by Hwan Gue Choi</ins></mark>
+		</pre>
+
+</BODY>
+
+</HTML>
+
+
+
+
+
+<h3> 여기는 최환규의 취미생활에 해당하는 페이지입니다.<h3>
+	<ul>
+		<li> 배드민턴
+		<li> 보드게임
+		<li> 독서
+	</ul>
+
+	<a href="right.html">비우기</a>
+
+
+
+
+
+<ul>
+		<li><a href="profile.html" target="right">프로필</a>
+		<li><a href="hobby.html" target="right">취미생활</a>
+
+
+
+
+
+<h4>출력페이지</h4>
+
+
+
+
+
+
+<h3> 여기는 최환규의 프로필에 해당하는 페이지입니다.<h3>
+	<ul>
+		<li> 이름 : 최환규
+		<li> 나이 : 20세
+		<li> 거주지 : 서울
+		<li> 국적 : 대한민국
+	</ul>
+
+	<a href="right.html">비우기</a>
+
